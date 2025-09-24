@@ -1,4 +1,4 @@
-All credits to [zhanghai](https://github.com/zhanghai/). This fork is intended for practice, with the objective of updating it to Material You 3 Expressive (hopefully).
+All credits to [zhanghai](https://github.com/zhanghai/). This fork is intended for practice, with the objective of updating it to Material 3 Expressive (hopefully).
 
 
 # Material Files
