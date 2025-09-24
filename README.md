@@ -1,4 +1,6 @@
 # Material Files
+All credits to https://github.com/zhanghai/MaterialFiles
+Just want to practice and update the file-manager to MaterialYou (:
 
 [本文中文版](README_zh-CN.md)
 
